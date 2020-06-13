@@ -1,6 +1,6 @@
 # Leetcode-June-Challenge
 
-[Week 1](https://github.com/eshaanmangal/Leetcode-June-Challenge/tree/master/Week1)
+[#Week 1](https://github.com/eshaanmangal/Leetcode-June-Challenge/tree/master/Week1)
 
 1. Day 1 - Invert Binary Tree
 https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3347/
@@ -25,5 +25,7 @@ https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/539/week-1
 
 
 Week 2
+8. Day 8 - Power of Two
+https://leetcode.com/explore/challenge/card/june-leetcoding-challenge/540/week-2-june-8th-june-14th/3354/
 
 
